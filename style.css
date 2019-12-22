@@ -1,0 +1,25 @@
+
+.carousel-inner img {
+width: 100%;
+height: 100%;
+}
+.mu-about-right {
+	display: inline;
+	float: left;
+	margin-top: 30px;
+	width: 100%;
+}
+.box{
+    border: 1.5px solid white;
+    padding 8px;
+    height: 460px;
+    width: 480px;
+    position: relative;
+    top: 130px;
+    left: 60%;
+    font-size: 30px;
+    color: white;
+    font-family: Quicksand;
+    padding-left: 18px;
+    padding-top: 20px;
+    }
