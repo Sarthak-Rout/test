@@ -1,0 +1,85 @@
+/*Everything is an element */
+body.body{
+    background: #aed6f1;
+}
+@font-face {
+    font-family: customfont;
+    src: url(pricedrop.ttf);
+}
+.display-4
+{
+    font-family: customfont;
+    text-align: center;
+    margin-top: 10px;
+}
+@font-face {
+    font-family: dystopia;
+    src:url(dystopia.ttf);
+}
+.col-md {
+    margin-top: 10px;
+    margin-left: 60px;
+    font-family: dystopia;
+}
+.name
+{
+    font-size: 30px;
+    text-align: center;
+}
+.college{
+    font-size: 20px;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+    text-align: center;
+}
+.education-body{
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+    margin-left: 40px;
+    margin-top: 80px;
+    width:300px;height:300px;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)
+}
+.img-fluid
+{
+    margin-top: 20px;
+}
+.fa{
+    margin: 6px;
+    border: black;
+    border-radius: 10%;
+
+}
+.fa:hover{
+    opacity: 0.9;
+}
+.fa-facebook-square {
+
+    background: white;
+    color: #3B5998;
+
+}
+.fa-instagram{
+background: white;
+    color:black;
+}
+.fa-linkedin
+{
+    margin: 5px;
+    margin-bottom: 20px;
+    width: 30px;
+    height: 30px;
+}
+.fa-youtube
+{
+    width: 30px;
+    height: 40px;
+    margin-bottom: 12px;
+}
+.socialWrapper
+{
+    margin: auto ;
+}
